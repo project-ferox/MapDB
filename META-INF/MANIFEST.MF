@@ -1,6 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: mapdb
-Bundle-SymbolicName: mapdb
-Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: org.mapdb
+Bundle-Version: 0.9.3.SNAPSHOT
 Export-Package: org.mapdb
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
