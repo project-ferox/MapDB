@@ -5,3 +5,4 @@ Bundle-SymbolicName: org.mapdb
 Bundle-Version: 0.9.3.SNAPSHOT
 Export-Package: org.mapdb
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+DynamicImport-Package: *
